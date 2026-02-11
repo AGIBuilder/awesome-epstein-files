@@ -62,7 +62,7 @@ Magnet Link for DataSet 12 - 114 Mib
 ```
 </details>
 
-## Explorers
+## Tools
 
 ### Official
 
