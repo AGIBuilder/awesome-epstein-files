@@ -62,15 +62,13 @@ Magnet Link for DataSet 12 - 114 Mib
 ```
 </details>
 
-## Tools
-
-### Official
+## Official explorer
 
 - [Official search engine on the Departemnt of Justice website](https://www.justice.gov/epstein/)
 
-### Explorers
+## Third-party explorers
 
-Tools that let you browse or search the data with pre-defined filters/categories etc.
+Tools that let you browse or search the data with pre-defined filters/categories etc. - the data shape is fixed.
 
 | Name                                                                                                                                       | Description                                                                                                                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -81,16 +79,18 @@ Tools that let you browse or search the data with pre-defined filters/categories
 | [epsteingraph.com](https://epsteingraph.com/)                                                                                              | Visualization of data pre-processed with AI. Includes mention frequency timeline visualization, document categorization, and ordering of the documents by relevance |
 | [epsteinvisualizer.com](https://epsteinvisualizer.com/)                                                                                    | A graph representation of entity connections extracted with AI                                                                                                      |
 
-### Research tools
+## Research tools
 
-Tools that let you construct your own visualizations / reports related to specific subsets of data.
+Tools that let you construct your own visualizations / reports related to specific subsets of data - the data shape is dynamic and specified by the user.
 
 | Name                                                  | Description                                                                                                       |
 |-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | [edge.dog](https://edge.dog)                          | AI research agent with Epstein files search built-in that lets you construct the knowledge graph based on a query |
 | [search.epstein.ninja](https://search.epstein.ninja/) | An AI chat implementing a RAG for the dataset                                                                     |
 
-### APIs
+## APIs
+
+Programmatic access to the data itself or its analysis.
 
 | Name                                                                                      | Description                                                                                             |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
