@@ -84,9 +84,10 @@ Tools that let you browse or search the data with pre-defined filters/categories
 
 Tools that let you construct your own visualizations / reports related to specific subsets of data.
 
-| Name                         | Description                                                                                                       |
-|------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| [edge.dog](https://edge.dog) | AI research agent with Epstein files search built-in that lets you construct the knowledge graph based on a query |
+| Name                                                  | Description                                                                                                       |
+|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| [edge.dog](https://edge.dog)                          | AI research agent with Epstein files search built-in that lets you construct the knowledge graph based on a query |
+| [search.epstein.ninja](https://search.epstein.ninja/) | An AI chat implementing a RAG for the dataset                                                                     |
 
 ### APIs
 
