@@ -72,13 +72,14 @@ Magnet Link for DataSet 12 - 114 Mib
 
 Tools that let you browse or search the data with pre-defined filters/categories etc.
 
-| Name                                                                                                                                       | Description                                                             |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| [jmail.world](https://jmail.world/)                                                                                                        | Browse Epstein files as if you are logged in his computer               |
-| [epstein-docs.github.io](https://epstein-docs.github.io/)                                                                                  | Processed and catalogued with AI: browse by person, location, date, etc |
-| [epstein-files.org](https://epstein-files.org/)                                                                                            | Includes AI summaries                                                   |
-| [Epstein Files collection on journaliststudio.google.com](https://journaliststudio.google.com/pinpoint/search?collection=c109fa8e7dcf42c1) | Catalogued by people/organizations/locations/dates                      |
-| [epsteinvisualizer.com](https://epsteinvisualizer.com/)                                                                                    | A graph representation of entity connections extracted with AI          |
+| Name                                                                                                                                       | Description                                                                                                                                                         |
+|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [jmail.world](https://jmail.world/)                                                                                                        | Browse Epstein files as if you are logged in his computer                                                                                                           |
+| [epstein-docs.github.io](https://epstein-docs.github.io/)                                                                                  | Processed and catalogued with AI: browse by person, location, date, etc                                                                                             |
+| [epstein-files.org](https://epstein-files.org/)                                                                                            | Includes AI summaries                                                                                                                                               |
+| [Epstein Files collection on journaliststudio.google.com](https://journaliststudio.google.com/pinpoint/search?collection=c109fa8e7dcf42c1) | Catalogued by people/organizations/locations/dates                                                                                                                  |
+| [epsteingraph.com](https://epsteingraph.com/)                                                                                              | Visualization of data pre-processed with AI. Includes mention frequency timeline visualization, document categorization, and ordering of the documents by relevance |
+| [epsteinvisualizer.com](https://epsteinvisualizer.com/)                                                                                    | A graph representation of entity connections extracted with AI                                                                                                      |
 
 ### Research tools
 
