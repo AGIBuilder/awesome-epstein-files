@@ -7,7 +7,8 @@ A catalogue of datasets and tools for researchers
 [Link to the reddit comment by itsbentheboy](https://old.reddit.com/r/DataHoarder/comments/1qrd9ma/did_anyone_manage_to_get_backupsarchive_of_the/o2o8pov/)
 
 <details>
-<summary><strong>Copied below in the case it gets removed (click to expand)</strong></summary>
+<summary><strong>Copied below for the case it gets removed (click to expand)</strong></summary>
+
 ```
 Dataset 9 - v1 - incomplete dataset available.
 
@@ -60,3 +61,33 @@ Magnet Link for DataSet 12 - 114 Mib
     bWFnbmV0Oj94dD11cm46YnRpaDplZTZkMmNlNWIyMjJiMDI4MTczZTRkZWRjNmY3NGYwOGFmYmJiN2EzJmRuPURhdGFTZXQlMjAxMi56aXAmeGw9MTE5NjM0ODU5JnRyPXVkcCUzQSUyRiUyRnRyYWNrZXIub3BlbmJpdHRvcnJlbnQuY29tJTNBODAlMkZhbm5vdW5jZSZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNl
 ```
 </details>
+
+## Explorers
+
+### Official
+
+- [Official search engine on the Departemnt of Justice website](https://www.justice.gov/epstein/)
+
+### Explorers
+
+Tools that let you browse or search the data with pre-defined filters/categories etc.
+
+| Name                                                                                                                                       | Description                                                             |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| [jmail.world](https://jmail.world/)                                                                                                        | Browse Epstein files as if you are logged in his computer               |
+| [epstein-docs.github.io](https://epstein-docs.github.io/)                                                                                  | Processed and catalogued with AI: browse by person, location, date, etc |
+| [epstein-files.org](https://epstein-files.org/)                                                                                            | Includes AI summaries                                                   |
+| [Epstein Files collection on journaliststudio.google.com](https://journaliststudio.google.com/pinpoint/search?collection=c109fa8e7dcf42c1) | Catalogued by people/organizations/locations/dates                      |
+| [epsteinvisualizer.com](https://epsteinvisualizer.com/)                                                                                    | A graph representation of entity connections extracted with AI          |
+
+### Research tools
+
+Tools that let you construct your own visualizations / reports related to specific subsets of data.
+
+| Name                         | Description                                                                                                       |
+| [edge.dog](https://edge.dog) | AI research agent with Epstein files search built-in that lets you construct the knowledge graph based on a query |
+
+### APIs
+
+| Name      | Description                                                                                             |
+| dugganusa | `https://analytics.dugganusa.com/api/v1/search?q=YOUR_QUERY&indexes=epstein_files` - a full-text search |
