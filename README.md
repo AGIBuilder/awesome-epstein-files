@@ -90,6 +90,7 @@ Tools that let you construct your own visualizations / reports related to specif
 
 ### APIs
 
-| Name      | Description                                                                                             |
-|-----------|---------------------------------------------------------------------------------------------------------|
-| dugganusa | `https://analytics.dugganusa.com/api/v1/search?q=YOUR_QUERY&indexes=epstein_files` - a full-text search |
+| Name                                                                                      | Description                                                                                             |
+|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| dugganusa                                                                                 | `https://analytics.dugganusa.com/api/v1/search?q=YOUR_QUERY&indexes=epstein_files` - a full-text search |
+| [Apify scraper by lofomachines](https://apify.com/lofomachines/epstein-files-scraper-api) | Multi-keyword search + text extraction from PDFs                                                        |
